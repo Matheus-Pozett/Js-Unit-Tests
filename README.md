@@ -47,7 +47,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   - Serão `2` dias de projeto;
 
-  - Data de entrega do projeto: `dd/mm/yyyy - 23:59h`
+  - Data de entrega do projeto: `24/01/2024 - 23:59h`
 
 </details>
 
